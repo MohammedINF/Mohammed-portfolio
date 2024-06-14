@@ -67,7 +67,7 @@ const Home = () => {
     const Tools = t('Tools', { returnObjects: true });
 
     const downloadPdf = () => {
-        fetch(require('../pdf/Mohammed-othman-cv.pdf'))
+        fetch(require('../pdf/Mohammed_othman_cv.pdf'))
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
