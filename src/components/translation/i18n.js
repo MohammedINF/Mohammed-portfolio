@@ -209,31 +209,34 @@ const resources = {
       skillTooltip: 'کاراماییەکان',
       topTooltip: 'سەرەتا',
       contactTooltip: 'پەیوەندی',
-      languages: [
+      languages :[
         { id: 1, Text: 'Java' },
         { id: 2, Text: 'C#' },
         { id: 3, Text: 'Node Js' },
         { id: 4, Text: 'Java Script' },
       ],
-      FrameWorks: [
-        { id: 1, Text: 'Express js',},
+      FrameWorks :[
+        { id: 1, Text: 'Express js',  },
         { id: 2, Text: 'React js & React Native', },
-        { id: 3, Text: 'Guna 2 Ui', },
-        { id: 4, Text: 'Tailwind Css',  },
+        { id: 3, Text: 'Next js', },
+        { id: 4, Text: 'Guna 2 Ui', },
+        { id: 5, Text: 'Tailwind Css',  },
       ],
-      DataBases: [
+      DataBases :[
         { id: 1, Text: 'MySQL' },
         { id: 2, Text: 'SQL-Lite' },
         { id: 3, Text: 'Microsoft SQL Server' },
         { id: 4, Text: 'Oracle' },
+        { id: 5, Text: 'SupaBase' },
       ],
-      Tools: [
-        { id: 1, Text: 'Windows & Linux' },
+      Tools :[
+        { id: 1, Text: 'Windows & Linux & MacOS' },
         { id: 2, Text: 'Git & Github' },
         { id: 3, Text: 'Postman & VsCode ' },
         { id: 4, Text: 'NetBeans & Intellij idea' },
 
       ]
+
     },
   },
   ar: {
@@ -322,31 +325,34 @@ const resources = {
       skillTooltip: 'مهارات',
       topTooltip: 'أعلى',
       contactTooltip: 'اتصال',
-      languages: [
+      languages :[
         { id: 1, Text: 'Java' },
         { id: 2, Text: 'C#' },
         { id: 3, Text: 'Node Js' },
         { id: 4, Text: 'Java Script' },
       ],
-      FrameWorks: [
+      FrameWorks :[
         { id: 1, Text: 'Express js',  },
-        { id: 2, Text: 'React js & React Native',  },
-        { id: 3, Text: 'Guna 2 Ui',  },
-        { id: 4, Text: 'Tailwind Css',  },
+        { id: 2, Text: 'React js & React Native', },
+        { id: 3, Text: 'Next js', },
+        { id: 4, Text: 'Guna 2 Ui', },
+        { id: 5, Text: 'Tailwind Css',  },
       ],
-      DataBases: [
+      DataBases :[
         { id: 1, Text: 'MySQL' },
         { id: 2, Text: 'SQL-Lite' },
         { id: 3, Text: 'Microsoft SQL Server' },
         { id: 4, Text: 'Oracle' },
+        { id: 5, Text: 'SupaBase' },
       ],
-      Tools: [
-        { id: 1, Text: 'Windows & Linux' },
+      Tools :[
+        { id: 1, Text: 'Windows & Linux & MacOS' },
         { id: 2, Text: 'Git & Github' },
         { id: 3, Text: 'Postman & VsCode ' },
         { id: 4, Text: 'NetBeans & Intellij idea' },
 
       ]
+
     },
   },
 
