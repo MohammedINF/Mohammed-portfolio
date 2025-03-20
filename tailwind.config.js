@@ -4,11 +4,14 @@ module.exports = {
   theme: {
     extend: { 
       fontFamily:{
-      hamaFont: ['Kaushan Script','cursive'],
+      hamaFont: ['"MuseoModerno"', 'sans-serif'],
       Pacifico: ['Pacifico','cursive'],
       Permanent: ['permanent','cursive'],
         Arabic: ['Lalezar','cursive'],
-        Kurdish:['Kurdish']
+        Kurdish:['Kurdish'],
+        oswald: ['"Oswald"', 'sans-serif'],
+
+        
     },
   },
    
